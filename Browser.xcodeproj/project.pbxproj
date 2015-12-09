@@ -115,7 +115,7 @@
 				TargetAttributes = {
 					B002B8611BAE420500C744AF = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = NKQ4HJ66PX;
+						DevelopmentTeam = E622WFSCJ7;
 					};
 				};
 			};
@@ -281,7 +281,7 @@
 				FRAMEWORK_SEARCH_PATHS = "/System/Library/PrivateFrameworks/**";
 				INFOPLIST_FILE = Browser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Moballo.tvbrowser;
+				PRODUCT_BUNDLE_IDENTIFIER = com.notabasement.tvOSBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -297,7 +297,7 @@
 				FRAMEWORK_SEARCH_PATHS = "/System/Library/PrivateFrameworks/**";
 				INFOPLIST_FILE = Browser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Moballo.tvbrowser;
+				PRODUCT_BUNDLE_IDENTIFIER = com.notabasement.tvOSBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
