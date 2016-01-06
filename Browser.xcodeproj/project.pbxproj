@@ -13,7 +13,6 @@
 		B002B86D1BAE420500C744AF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B002B86C1BAE420500C744AF /* ViewController.m */; };
 		B002B8701BAE420500C744AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B002B86E1BAE420500C744AF /* Main.storyboard */; };
 		B002B8721BAE420500C744AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B002B8711BAE420500C744AF /* Assets.xcassets */; };
-		B0F6B4621BAEBF9900E2F26B /* README.mdown in Sources */ = {isa = PBXBuildFile; fileRef = B0F6B4611BAEBF9900E2F26B /* README.mdown */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -172,7 +171,6 @@
 			files = (
 				B002B86D1BAE420500C744AF /* ViewController.m in Sources */,
 				B002B86A1BAE420500C744AF /* AppDelegate.m in Sources */,
-				B0F6B4621BAEBF9900E2F26B /* README.mdown in Sources */,
 				B002B8671BAE420500C744AF /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
